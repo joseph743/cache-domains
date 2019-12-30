@@ -7,6 +7,7 @@ content5.steampowered.com
 content6.steampowered.com
 content7.steampowered.com
 content8.steampowered.com
+*.steampowered.com
 cs.steampowered.com
 steamcontent.com
 client-download.steampowered.com
