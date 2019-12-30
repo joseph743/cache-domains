@@ -1,4 +1,3 @@
-  
 albert.apple.com
 appldnld.apple.com
 configuration.apple.com
