@@ -110,10 +110,16 @@
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
 		},
-				{
+		{
 			"name": "apple",
 			"description": "CDN for apple",
 			"domain_files": ["apple.txt"]
+		},
+		{
+			"name": "alldomains",
+			"description": "CDN for alldomains",
+			"domain_files": ["alldomains.txt"]
 		}
+		
 	]
 }
