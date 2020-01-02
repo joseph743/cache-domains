@@ -1,4 +1,5 @@
 dist.blizzard.com
+*.blizzard.com
 dist.blizzard.com.edgesuite.net
 llnw.blizzard.com
 edgecast.blizzard.com
