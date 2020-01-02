@@ -15,3 +15,4 @@ swdownload.apple.com
 swcdn.apple.com
 swdist.apple.com
 xp.apple.com
+*.aaplimg.com
