@@ -4,6 +4,7 @@ windowsupdate.com
 *.dl.delivery.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 *.update.microsoft.com
+*.microsoft.com
 *.do.dsp.mp.microsoft.com
 *.microsoft.com.edgesuite.net
 amupdatedl.microsoft.com
