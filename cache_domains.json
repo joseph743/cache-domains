@@ -119,6 +119,11 @@
 			"name": "alldomains",
 			"description": "CDN for alldomains",
 			"domain_files": ["alldomains.txt"]
+		},
+		{
+			"name": "lab",
+			"description": "CDN for alldomains",
+			"domain_files": ["lab.txt"]
 		}
 		
 	]
