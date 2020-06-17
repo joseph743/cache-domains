@@ -28,11 +28,11 @@ cdn.homecomingservers.com
 # Do NOT cache manifest.patch.daybreakgames.com
 pls.patch.daybreakgames.com
 #epicgames
-epicgames-download1.akamaized.net
-download.epicgames.com
-download2.epicgames.com
-download3.epicgames.com
-download4.epicgames.com
+#epicgames-download1.akamaized.net
+#download.epicgames.com
+#download2.epicgames.com
+#download3.epicgames.com
+#download4.epicgames.com
 #frontier
 cdn.zaonce.net
 #hirez
