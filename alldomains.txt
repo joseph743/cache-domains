@@ -1,4 +1,3 @@
-gs2.sonycoment.loris-e.llnwd.net
 #arenanet
 #*.igamecj.com
 #igamecj.com
@@ -23,7 +22,6 @@ edge.blizzard.top.comcast.net
 cdn.blizzard.com
 *.cdn.blizzard.com
 *.llnwd.net
-*.gs2.sonycoment.loris-e.llnwd.net
 #cityofheroes
 cdn.homecomingservers.com
 #daybreak
