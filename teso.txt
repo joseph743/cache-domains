@@ -12,11 +12,3 @@ amupdatedl2.microsoft.com
 amupdatedl3.microsoft.com
 amupdatedl4.microsoft.com
 amupdatedl5.microsoft.com
-assets1.xboxlive.com
-assets2.xboxlive.com
-dlassets.xboxlive.com
-xboxone.loris.llnwd.net
-*.xboxone.loris.llnwd.net
-xboxone.vo.llnwd.net
-xbox-mbr.xboxlive.com
-assets1.xboxlive.com.nsatc.net
