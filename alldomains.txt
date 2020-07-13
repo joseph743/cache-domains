@@ -196,3 +196,4 @@ dl-wowp-cdx.wargaming.net
 ##swdist.apple.com
 ##xp.apple.com
 ##*.aaplimg.com
+patch-dl.ffxiv.com
