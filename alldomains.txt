@@ -1,5 +1,6 @@
-*.gs2.sonycoment.loris-e.llnwd.net
-gs2.sonycoment.loris-e.llnwd.net
+#*.gs2.sonycoment.loris-e.llnwd.net
+#gs2.sonycoment.loris-e.llnwd.net
+gs2.ww.prod.dl.playstation.net
 #arenanet
 #*.igamecj.com
 #igamecj.com
