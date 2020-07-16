@@ -1,8 +1,8 @@
 pls.patch.station.sony.com
-#gs2.ww.prod.dl.playstation.net
+gs2.ww.prod.dl.playstation.net
 *.dl.playstation.net
-#*.gs2.sonycoment.loris-e.llnwd.net
-#gs2.sonycoment.loris-e.llnwd.net
+*.gs2.sonycoment.loris-e.llnwd.net
+gs2.sonycoment.loris-e.llnwd.net
 epicgames-download1.akamaized.net
 download.epicgames.com
 download2.epicgames.com
