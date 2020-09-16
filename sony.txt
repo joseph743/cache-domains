@@ -24,3 +24,5 @@ edge.blizzard.top.comcast.net
 cdn.blizzard.com
 *.cdn.blizzard.com
 *.llnwd.net
+*.cdn.ea.com
+cdn.ea.com
